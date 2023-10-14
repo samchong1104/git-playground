@@ -1,5 +1,7 @@
 module.exports = async () => {
     console.log("qweqweqwe");
+    let a = change(6);
+
     return "hello";
 
     function change(param) {
